@@ -1,0 +1,982 @@
+[
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< tiger struck sport>, < tiger is youngest>, < si named tiger>, < fascination follows tiger>, < tiger hold everyone>, < tiger sauntered pressure>, < tiger allowed tiger>, < tiger smile>, ",
+      "input": "A. < open heated tiger indian>\nB. < district sell tiger>\nC. < plot turns tiger>\nD. < discussed tiger>\nE. < tiger saturated>\n",
+      "output": "D.  < tiger smile>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< image succeeds company>, < eisner name image post>, < eisner see image>, < sense surrounds image>, < eisner enjoys image>, < image advised idei>, < image angling job>, < image told friend>, ",
+      "input": "A. < image lost more chairman>\nB. < image resemble image>\nC. < image regard arena investment>\nD. < image was interested>\nE. < image comment>\n",
+      "output": "E. < image told friend>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< francis transferred md.>, < francis brought leg>, < francis dunked time>, < teammate resent francis>, < teammate suspect francis>, < francis moved>, < francis averaging point>, < francis shooting cause>, ",
+      "input": "A. < please francis 404-526-5456>\nB. < backed up francis>\nC. < francis caught fish>\nD. < francis blamed it brace>\nE. < stopped francis>\n",
+      "output": "E. < francis shooting cause>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< chair facing basketball>, < court make basketball>, < basketball is sure>, < basketball sends out player>, < Compared basketball>, < buck got basketball>, < basketball whirled bench>, < basketball shouted out center>, ",
+      "input": "A. < basketball looked>\nB. < basketball weakened>\nC. < basketball thrown lot youngster>\nD. < client denied basketball>\nE. < basketball shed>\n",
+      "output": "C.  < basketball shouted out center>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< chairman lived most>, < chairman moved>, < chairman sold cleaner>, < chairman graduating college>, < chairman received m.b.a.>, < chairman started career>, < chairman worked manager>, < chairman left agency>, ",
+      "input": "A. < chairman joined spielvogel>\nB. < based chairman>\nC. < chairman releasing wild>\nD. < chairman changed>\nE. < chairman upstate>\n",
+      "output": "A.  < chairman left agency>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< sutton clinched spot>, < sutton reaffirmed>, < sutton returned>, < sutton plummeted>, < sutton put piece>, < sutton hit shot>, < sutton reflected>, < sutton won open>, ",
+      "input": "A. < sutton finished>\nB. < sutton worked>\nC. < dismissed sutton>\nD. < sutton died>\nE. < sutton represents species>\n",
+      "output": "A.  < sutton won open>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< palmer survive>, < palmer advance>, < palmer swung shoe>, < give palmer>, < palmer hitched up trousers>, < palmer hit ball>, < palmer chipped>, < palmer ask>, ",
+      "input": "A. < palmer estimates>\nB. < palmer established>\nC. < board include palmer>\nD. < babe increased palmer>\nE. < palmer stood>\n",
+      "output": "E. < palmer ask>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< bank observe development>, < bank laying foundation>, < bank sparked speculation>, < bank setting rate>, < bank deter weakening>, < bank is likely>, < bank keep up type>, < bank succeeds>, ",
+      "input": "A. < bank exploring investment>\nB. < bank imposing limit>\nC. < bank accelerate market>\nD. < bank fell>\nE. < bank curbing decline>\n",
+      "output": "E. < bank succeeds>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< dumas stood>, < dumas promised jerry>, < dumas apologize jerry>, < dumas sign>, < dumas report examination>, < doctor cleared dumas>, < colangelo give dumas>, < dumas suffered relapse>, ",
+      "input": "A. < dumas wears shirt>\nB. < wait add dumas>\nC. < dumas demonstrate depth>\nD. < dumas serves up cruz>\nE. < suns need dumas>\n",
+      "output": "E. < dumas suffered relapse>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< jackson joined sox>, < jackson batted .356>, < jackson give money>, < tell jackson>, < jackson led sox hit>, < acquitted jackson>, < banned jackson baseball>, < jackson lived>, ",
+      "input": "A. < jackson returned>\nB. < jackson buy first>\nC. < jackson envisioned son>\nD. < survey declared jackson>\nE. < jackson risen>\n",
+      "output": "A.  < jackson lived>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< berry wrestle steer rodeo>, < berry learn best>, < berry moved>, < berry won buckle>, < berry faring>, < rush attracted berry>, < have berry>, < berry traveling champion>, ",
+      "input": "A. < berry gaining ground>\nB. < berry tell you>\nC. < berry wore dress>\nD. < people know berry>\nE. < berry earned title>\n",
+      "output": "E. < berry traveling champion>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< dropping cardinals>, < plummer sparked cardinals>, < cardinals took over 10:26>, < cardinals happen>, < cardinals averaged yard>, < cardinals stop peete>, < cardinals won toss>, < penalty put cardinals hole>, ",
+      "input": "A. < organized cardinals>\nB. < held cardinals>\nC. < believed cardinals>\nD. < cardinals accuses producer farmland>\nE. < cardinals punt>\n",
+      "output": "E. < penalty put cardinals hole>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< linkletter believes>, < linkletter divulged what>, < linkletter ask>, < linkletter fashioned career>, < linkletter posing question>, < linkletter put together kids>, < linkletter admits>, < linkletter is pleased>, ",
+      "input": "A. < linkletter focus governance>\nB. < linkletter paid $>\nC. < linkletter completed producers>\nD. < linkletter began company>\nE. < convinced linkletter>\n",
+      "output": "E. < linkletter is pleased>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< bodgit beat pulpit>, < bodgit healed fracture>, < bodgit gained experience>, < bodgit look>, < bodgit put bodgit program>, < bodgit force-feed bodgit>, < headed bodgit grass>, < capuano trains bodgit>, ",
+      "input": "A. < bodgit blame inconsistency alternate>\nB. < bodgit concluded>\nC. < bodgit connected bodgit house>\nD. < bodgit ran race>\nE. < bodgit keeping attitude>\n",
+      "output": "D.  < capuano trains bodgit>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< it comes agassi>, < agassi found anything>, < agassi compare this wimbledon>, < known agassi guy>, < agassi avoided wimbledon cowardice>, < agassi speaks court>, < agassi won meeting>, < becker exchange groundstroke agassi>, ",
+      "input": "A. < agassi began>\nB. < agassi challenge agassi>\nC. < agassi wreck half>\nD. < prosecutor move agassi>\nE. < agassi spent year>\n",
+      "output": "B.  < becker exchange groundstroke agassi>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< signing mitchell>, < peterson trade mitchell>, < mitchell asking>, < mitchell solve problem>, < chiefs need mitchell>, < mitchell spent mitchell>, < mitchell operating>, < mitchell call changer>, ",
+      "input": "A. < mitchell combine peterson one>\nB. < mitchell move>\nC. < mitchell believe>\nD. < mitchell averaged yard>\nE. < mitchell argue>\n",
+      "output": "D.  < mitchell call changer>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< rockies repeat performance>, < performance knocked rockies appearance>, < rockies compiled record>, < rockies tied diego place>, < rockies matched swing>, < rockies finished>, < rockies were normal>, < rockies batted .228>, ",
+      "input": "A. < marlins has rockies>\nB. < rockies shows plant>\nC. < rockies forfeited year>\nD. < rockies hit 72>\nE. < received rockies>\n",
+      "output": "D.  < rockies batted .228>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< man shooting man>, < prosecutors charged man crime>, < jury indict man>, < man faces charge>, < man added>, < man invoked right>, < man talk investigator>, < portrayed man vigilante>, ",
+      "input": "A. < man claimed>\nB. < man noted lengthening>\nC. < man exploded>\nD. < pursued man>\nE. < couple made man>\n",
+      "output": "A.  < portrayed man vigilante>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< law frees forest logging>, < law retained protection>, < lawmakers pushed law>, < administration interpreting law>, < law gives>, < legislators wrote law>, < legislators intended law>, < law affect any>, ",
+      "input": "A. < law hit i>\nB. < law believed>\nC. < law reported $>\nD. < plan putting law effect>\nE. < law rinsing hour>\n",
+      "output": "D.  < law affect any>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< overthrowing saddam>, < driven saddam>, < saddam miscalculated>, < attack sent saddam>, < saddam was better>, < attack put saddam notice>, < saddam pay price>, < saddam depends>, ",
+      "input": "A. < you cut saddam>\nB. < saddam dies>\nC. < saddam lie saddam>\nD. < cried saddam>\nE. < hit saddam>\n",
+      "output": "E. < saddam depends>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< harvey is worldliest>, < harvey posing question>, < harvey sign book>, < harvey give lecture>, < sent harvey school>, < harvey lived>, < harvey felt>, < harvey put life harvey>, ",
+      "input": "A. < harvey lost connection>\nB. < i love harvey>\nC. < harvey figures most>\nD. < harvey returned>\nE. < harvey resonate>\n",
+      "output": "D.  < harvey put life harvey>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< hackett is excited>, < hired hackett>, < started hackett>, < hackett figured>, < hackett leave debris>, < hackett focus trojans>, < hackett stressed>, < hackett put together staff scratch>, ",
+      "input": "A. < hackett sell version efficiency>\nB. < hackett expand>\nC. < hackett adjust require>\nD. < hackett matters>\nE. < you seen hackett>\n",
+      "output": "C.  < hackett put together staff scratch>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< ifor swoop down karadzic>, < karadzic delegated powers plavsic>, < karadzic attends mass>, < karadzic acknowledge>, < karadzic started war>, < karadzic hated sarajevo>, < karadzic arrived>, < karadzic disappear detail>, ",
+      "input": "A. < karadzic climbed>\nB. < karadzic fell>\nC. < put strain karadzic>\nD. < karadzic cut tax>\nE. < karadzic end up detail>\n",
+      "output": "E. < karadzic disappear detail>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< kersee ruled craft>, < heptathlon have kersee>, < kersee captured medal>, < kersee won medal>, < known kersee>, < named kersee>, < kersee grew up>, < kersee recalls long-jumping>, ",
+      "input": "A. < kersee used sand>\nB. < it let kersee>\nC. < kersee divesting business>\nD. < kersee devalued>\nE. < kersee believe>\n",
+      "output": "A.  < kersee recalls long-jumping>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< sand sustained damage>, < sand win>, < sand struggled>, < sand started competition>, < sand botched axel>, < sand added toe repertoire>, < sand skating degree>, < sand feel>, ",
+      "input": "A. < sand giving off time training>\nB. < sand dined>\nC. < sand walk>\nD. < sand became apparent>\nE. < sand fallen>\n",
+      "output": "E. < sand feel>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< cutback cost chrysler>, < chrysler rush launch>, < chrysler return>, < chrysler defined market>, < chrysler dominated market>, < chrysler announced>, < chrysler refurbishing plant>, < chrysler close chrysler>, ",
+      "input": "A. < chrysler fell>\nB. < end hired chrysler>\nC. < quoted pound chrysler>\nD. < chrysler producing pickup>\nE. < chrysler gained point>\n",
+      "output": "D.  < chrysler close chrysler>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< kevin grow up>, < kevin emulating peter>, < kevin phoned business>, < kevin spoke some>, < kevin smiles>, < surprised kevin>, < kevin winds up job>, < kevin be ready>, ",
+      "input": "A. < kevin plummeted>\nB. < kevin help>\nC. < kevin knock door>\nD. < kevin advanced>\nE. < kevin takes over parlor>\n",
+      "output": "C.  < kevin be ready>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< grissom singled run>, < that brought grissom plate>, < grissom singled out one>, < grissom run home>, < grissom finish batting>, < grissom hit grounder>, < dazzled grissom>, < grissom swing>, ",
+      "input": "A. < excused grissom>\nB. < grissom vowed>\nC. < grissom scoring champ>\nD. < grissom reminded game default>\nE. < including grissom>\n",
+      "output": "A.  < grissom swing>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< reminded dole tug>, < dole dines>, < dole satisfy hard-charger>, < dole adopted policy>, < dole supports>, < dole hold back opinion>, < dole oppose nomination>, < dole lick finger>, ",
+      "input": "A. < dole stick it>\nB. < dole taped gambit>\nC. < dole live way>\nD. < dole are available>\nE. < pass tailback dole>\n",
+      "output": "A.  < dole lick finger>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< carr remain part>, < person replace carr>, < carr told throng>, < carr repeated query>, < carr surrender one>, < carr was aware>, < carr admitted something>, < carr step>, ",
+      "input": "A. < carr felt>\nB. < carr runs>\nC. < carr received '>\nD. < see carr>\nE. < carr receives 60 call>\n",
+      "output": "A.  < carr step>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< simonsen grew up>, < simonsen keeps snuff>, < simonsen working degree>, < simonsen entered contest>, < simonsen wrote>, < simonsen named mclendon>, < send simonsen>, < known simonsen texas>, ",
+      "input": "A. < seen simonsen>\nB. < simonsen donated>\nC. < simonsen take over>\nD. < simonsen scored play>\nE. < founded simonsen>\n",
+      "output": "C.  < known simonsen texas>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< sanchez wasted time>, < sanchez scored goal>, < sanchez meeting teammates>, < teammates know sanchez>, < sanchez arrived respect>, < sanchez paced sanchez linz>, < officials sign sanchez>, < officials pressuring sanchez>, ",
+      "input": "A. < sanchez grew>\nB. < sanchez s capable>\nC. < overtaken sanchez>\nD. < sanchez handling it>\nE. < sanchez added touch>\n",
+      "output": "B.  < officials pressuring sanchez>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< clinton wrote>, < clinton clean up what>, < clinton view sewer>, < clinton proposed legislation>, < clinton tried best>, < clinton closed gap>, < clinton temper fund-raising>, < party enjoyed clinton>, ",
+      "input": "A. < clinton show tightness>\nB. < clinton fight>\nC. < clinton drove halfway>\nD. < clinton felt>\nE. < clinton spoke>\n",
+      "output": "E. < party enjoyed clinton>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< hoya sliced everything>, < hoya hitting eyebrow jab>, < give hoya>, < chavez dismissed hoya>, < thing conspired hoya>, < thing consume hoya>, < hoya modeled line>, < hoya speaks way>, ",
+      "input": "A. < hoya teaches>\nB. < hoya cannot reach>\nC. < hoya publish version>\nD. < hoya fought promoter>\nE. < hoya questioning participant>\n",
+      "output": "D.  < hoya speaks way>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< oilers look hope>, < oilers turned>, < oilers lost four>, < oilers bounced>, < oilers started>, < oilers ran off streak>, < oilers felt oilers>, < oilers were ready>, ",
+      "input": "A. < oilers threw pitch>\nB. < oilers working strategy>\nC. < oilers re>\nD. < oilers hope>\nE. < oilers believe>\n",
+      "output": "D.  < oilers were ready>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< marasek helping>, < person reach marasek comment>, < marasek holds permit>, < marasek breed animal>, < marasek raise animal>, < marasek told investigators>, < marasek face charge>, < cited marasek violation>, ",
+      "input": "A. < ignored marasek>\nB. < marasek maintain>\nC. < marasek won championship>\nD. < marasek are delighted>\nE. < marasek lead defect>\n",
+      "output": "B.  < cited marasek violation>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< agreement told throng>, < center found agreement support>, < seen agreement candidate>, < agreement was first>, < greeted agreement>, < agreement enjoys support>, < agreement warmed>, < weekend concede agreement>, ",
+      "input": "A. < provided agreement evidence>\nB. < agreement bring change>\nC. < agreement put people>\nD. < agreement improve facility>\nE. < agreement fell>\n",
+      "output": "B.  < weekend concede agreement>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< jenkins appears>, < jenkins writes>, < chief tells jenkins landlady>, < rollins insisted jenkins>, < jenkins gives impression>, < jenkins is afraid>, < jenkins admit>, < bored jenkins>, ",
+      "input": "A. < dissatisfied jenkins>\nB. < people make jenkins>\nC. < jenkins appreciate respect>\nD. < those include jenkins>\nE. < jenkins sit jenkins>\n",
+      "output": "A.  < bored jenkins>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< dole explained>, < dole pulled out>, < dole blame performance budget>, < dole sent regret delegates>, < dole told group>, < dole appear>, < other attacked dole>, < gramm accused dole>, ",
+      "input": "A. < according dole>\nB. < dole participate>\nC. < built dole>\nD. < dole marks start>\nE. < dole nominated>\n",
+      "output": "B.  < gramm accused dole>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< fawcett gave day>, < fawcett reported camp>, < fawcett trains>, < adopted fawcett>, < fawcett spends week>, < fawcett likes it>, < fawcett loves everyone>, < fawcett calls katie>, ",
+      "input": "A. < government posted fawcett>\nB. < fawcett default payment>\nC. < fawcett survive>\nD. < fawcett gained yen>\nE. < fawcett running>\n",
+      "output": "E. < fawcett calls katie>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< eisenach acknowledged>, < eisenach created foundation>, < eisenach claims>, < eisenach working consultant>, < eisenach established address>, < eisenach arranging mail>, < eisenach denied foundation>, < eisenach announced addition>, ",
+      "input": "A. < eisenach stands>\nB. < eisenach finish>\nC. < 3. put eisenach gopac>\nD. < eisenach live>\nE. < eisenach capture style>\n",
+      "output": "A.  < eisenach announced addition>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< abrengo put abrengo>, < abrengo provide revelation>, < lodged laundering abrengo>, < abrengo turn officer>, < sunday arrested abrengo>, < abrengo turned over enforcement>, < abrengo plead>, < abrengo mirror cartel>, ",
+      "input": "A. < abrengo enrolled>\nB. < abrengo purchased warehouses>\nC. < abrengo allowed passer>\nD. < abrengo offered reassurance>\nE. < abrengo named abrengo>\n",
+      "output": "B.  < abrengo mirror cartel>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< weld lashed out>, < weld existed>, < weld closed program>, < weld killed officer>, < weld suggested>, < weld rubs>, < i pass weld>, < weld bragged>, ",
+      "input": "A. < weld worked out accord>\nB. < weld looked>\nC. < weld shown interest>\nD. < weld regarded kerry oppressor>\nE. < weld spearhead prosecution>\n",
+      "output": "E. < weld bragged>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< siebert fallen>, < born siebert>, < reared siebert>, < siebert attended graduate>, < turned down siebert>, < siebert landed job>, < siebert lying>, < siebert graduated>, ",
+      "input": "A. < siebert seemed explosion>\nB. < siebert happen>\nC. < woman have siebert>\nD. < siebert reported>\nE. < siebert acknowledges>\n",
+      "output": "E. < siebert graduated>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< rose sent manny slammer>, < convicted manny>, < manny grew up>, < manny skipped probation charge>, < nailed manny>, < official spotted manny show>, < judge release manny>, < manny achieved minute>, ",
+      "input": "A. < manny re>\nB. < manny turns freeman>\nC. < manny enriched lexicon schwag>\nD. < shareholder accept manny>\nE. < manny meet rose>\n",
+      "output": "C.  < manny achieved minute>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< pedregon extinguish memory>, < pedregon racing driver>, < pedregon crawled hatch>, < pedregon landed>, < one left pedregon burn>, < pedregon beat john>, < pedregon won championship rookie>, < pedregon undergone appendectomy>, ",
+      "input": "A. < pedregon slides>\nB. < remaking pedregon film>\nC. < pedregon receive dollar>\nD. < pedregon run>\nE. < pedregon carry advisory>\n",
+      "output": "C.  < pedregon undergone appendectomy>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< company seems>, < company resume>, < company left off>, < company depends what>, < company use incentive>, < company faces opposition>, < window dressing company>, < company let employees>, ",
+      "input": "A. < company forged>\nB. < company felt>\nC. < giving company>\nD. < company is state-owned>\nE. < company re night>\n",
+      "output": "D.  < company let employees>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< baritone sang fugue>, < baritone recounts>, < baritone canceled performance>, < baritone threw baritone activity>, < baritone dabbled>, < baritone performed dieskau>, < baritone discusses process>, < baritone sums up process>, ",
+      "input": "A. < baritone received degree>\nB. < people invested baritone>\nC. < baritone told executive>\nD. < fact accompanying baritone>\nE. < baritone lure customer>\n",
+      "output": "D.  < baritone sums up process>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< company save pound>, < company cutting task>, < company develop threadneedle>, < company create board>, < company denied>, < company began review>, < company announced result>, < company invest>, ",
+      "input": "A. < please company 404-526-5456>\nB. < analysts give company>\nC. < company mow grass>\nD. < company expects savings>\nE. < company are high>\n",
+      "output": "D.  < company invest>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< lopez clanked shot>, < lopez s better>, < lopez talking lopez>, < lopez play up>, < embarrassed lopez>, < rhodes remind lopez>, < rhodes wished lopez>, < lopez suggested>, ",
+      "input": "A. < problem scored lopez>\nB. < lopez publishes problem>\nC. < you give lopez>\nD. < lopez am confident>\nE. < lopez complained>\n",
+      "output": "C.  < lopez suggested>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< torre returning>, < torre reveal>, < torre hit homer>, < torre use cone>, < york reached torre>, < torre flipped volley>, < torre won 20>, < distracted torre>, ",
+      "input": "A. < torre s funny>\nB. < torre aiming>\nC. < torre looking people>\nD. < torre keep perspective>\nE. < torre challenge torre>\n",
+      "output": "E. < distracted torre>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< knighted bing>, < bing left met>, < bing opened tenure>, < bing taught>, < cut out bing job>, < bing took up employment>, < bing found position>, < bing wrote book>, ",
+      "input": "A. < bing form committee>\nB. < admitted bing>\nC. < bing represent ciparick>\nD. < bing produce material>\nE. < bing m>\n",
+      "output": "B.  < bing wrote book>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< lodged complaint bear>, < case puts bear>, < bear kept bear>, < bear repay stearns>, < bear denies allegation>, < bear insists>, < bear performs function>, < found bear>, ",
+      "input": "A. < bear advises>\nB. < bear received request>\nC. < bear is busy>\nD. < bear reviewed language>\nE. < bear happens>\n",
+      "output": "B.  < found bear>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< ag suggests>, < expected ag>, < ag s good>, < ag needs doctor>, < doctor prescribe ag>, < result help ag>, < ag become profitable>, < approved ag>, ",
+      "input": "A. < ag benefit patient>\nB. < ag buy airframe>\nC. < retavase fetch ag>\nD. < ag told ag>\nE. < ag pays fund>\n",
+      "output": "A.  < approved ag>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< clinton participate ceremony>, < clinton laying>, < clinton hold conference>, < way get clinton>, < clinton win re-election>, < put clinton position>, < clinton show level>, < clinton was stronger>, ",
+      "input": "A. < clinton capture third>\nB. < clinton break past>\nC. < beating clinton>\nD. < clinton spent $ system>\nE. < clinton re>\n",
+      "output": "A.  < clinton was stronger>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< horry firing>, < recall horry>, < horry resisted notion>, < horry turned it postseason>, < horry caught attention>, < horry complain>, < horry sounds guy>, < horry ignored criticism>, ",
+      "input": "A. < horry weaken act>\nB. < horry added>\nC. < killed horry>\nD. < suited horry slot>\nE. < horry took down outpost>\n",
+      "output": "D.  < horry ignored criticism>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< myles opened season>, < myles started game>, < cowboys fill myles>, < myles signed contract>, < one handed myles>, < injury keep myles sideline>, < myles missed most>, < myles sustaining tear>, ",
+      "input": "A. < jones gives myles>\nB. < myles notched block jones>\nC. < myles conduct survey>\nD. < myles celebrating touchdown>\nE. < carried out myles>\n",
+      "output": "D.  < myles sustaining tear>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< victim climbing>, < victim defeats>, < victim face winner>, < victim beefed up year>, < victim serve year>, < one named victim>, < victim use more>, < day meeting victim>, ",
+      "input": "A. < victim displayed some>\nB. < victim offer type>\nC. < victim draw up package>\nD. < time keep victim>\nE. < victim raises risk>\n",
+      "output": "A.  < day meeting victim>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< give tooth>, < arrived>, < was 10th>, < secured spot>, < shot>, < missed cut>, < remains>, < lehman push>, ",
+      "input": "A. < inserted language>\nB. < watches action>\nC. < spoil thing>\nD. < melts>\nE. < biting>\n",
+      "output": "B.  < lehman push>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< kelly remains kelly>, < kelly retired>, < kelly finished 12>, < kelly captured>, < kelly won stage>, < kelly wore jersey>, < poster acclaiming kelly>, < kelly called square>, ",
+      "input": "A. < kelly wonder>\nB. < happened kelly>\nC. < kelly giving kelly>\nD. < kelly break>\nE. < kelly wanted race route>\n",
+      "output": "E. < kelly called square>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< bryant preview testimony>, < bryant found chatty>, < prosecutor depose bryant>, < bryant was open>, < bryant measured word>, < lawyers nudged bryant>, < bryant clam up>, < bryant tell>, ",
+      "input": "A. < signed bryant>\nB. < democrat use netscape bryant>\nC. < bryant told members>\nD. < talking bryant>\nE. < story have bryant>\n",
+      "output": "E. < bryant tell>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< hemingway enlisted>, < hemingway met hemingway>, < hemingway recuperating wound>, < hemingway liked>, < hemingway died>, < hemingway left diary>, < involved hemingway>, < man marry hemingway>, ",
+      "input": "A. < hemingway decided>\nB. < hemingway broke love>\nC. < hemingway feel>\nD. < hemingway be glamorous>\nE. < hemingway closed center>\n",
+      "output": "C.  < man marry hemingway>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< taylor insists>, < taylor adds>, < taylor laughs>, < taylor admits>, < taylor keeps>, < taylor talking pal>, < taylor put fund-raiser>, < taylor recalls>, ",
+      "input": "A. < taylor conducts survey>\nB. < taylor trade starter>\nC. < schedule taylor>\nD. < indebted taylor elegance>\nE. < pudney explained logistics taylor>\n",
+      "output": "E. < taylor recalls>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< people tell frost>, < frost dedicated frost>, < we have frost>, < frost predicts>, < frost win election>, < frost climb mountain>, < frost believed>, < frost focused>, ",
+      "input": "A. < frost built house>\nB. < frost fought over affiliation>\nC. < frost pull string>\nD. < frost wrap frost grill>\nE. < election had frost>\n",
+      "output": "A.  < frost focused>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< leitao coveted job>, < leitao want>, < calhoun respected leitao>, < leitao gave leitao>, < calhoun took leitao leitao>, < leitao was present>, < leitao coaching>, < leitao loves place what>, ",
+      "input": "A. < leitao recalls experience>\nB. < struck leitao>\nC. < leitao ve repeatedly>\nD. < leitao given>\nE. < leitao oppose connecticut>\n",
+      "output": "A.  < leitao loves place what>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< decision affords ross>, < ross gained fame>, < ross changed affiliation democrat>, < ross announced>, < ross challenge man>, < man brought ross politics>, < ross spent hour>, < ross is famous>, ",
+      "input": "A. < one leaves ross>\nB. < ross became expendable>\nC. < ross acquire store>\nD. < ross slash funding>\nE. < ross beat d'amato>\n",
+      "output": "E. < ross is famous>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< including clinton>, < clinton lectured staff>, < clinton faces pitfall>, < clinton fighting label>, < clinton issuing statement>, < clinton leading>, < clinton retaining majority>, < mate aid clinton>, ",
+      "input": "A. < clinton stopped michigan>\nB. < clinton be lucky>\nC. < clinton replied>\nD. < clinton evaluated democrats>\nE. < clinton pose question>\n",
+      "output": "B.  < mate aid clinton>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< arrested pinez 1>, < held pinez>, < pinez denies wrongdoing>, < board fired pinez>, < pinez lending customers>, < pinez bought option>, < pinez selling option>, < pinez borrowed>, ",
+      "input": "A. < pinez using road site>\nB. < pinez intercepted>\nC. < pinez remains board>\nD. < getting pinez>\nE. < pinez show pinez>\n",
+      "output": "C.  < pinez borrowed>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< steed attained steed>, < handpicked steed>, < steed raise much>, < steed charging rate asset>, < steed hinted>, < steed fill street cart>, < space pay steed>, < steed holds sponsor>, ",
+      "input": "A. < steed touched percent>\nB. < steed rates hall>\nC. < steed receiving report>\nD. < steed talking enemy>\nE. < steed quit career>\n",
+      "output": "D.  < steed holds sponsor>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< drawing tapped stroke fun>, < member approached drawing>, < drawing replied drawing>, < drawing headed up hill>, < drawing was more>, < drawing alternated>, < drawing teed off hole>, < one misfired drawing>, ",
+      "input": "A. < added drawing>\nB. < casey shouted cunningham drawing>\nC. < anything commented drawing>\nD. < drawing stays course>\nE. < drawing sang>\n",
+      "output": "B.  < one misfired drawing>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< turn company rival>, < company spending skiing family>, < company return message>, < company left>, < involved company>, < challenge facing company>, < candidate include company>, < company decide>, ",
+      "input": "A. < company succeed company officer>\nB. < company give up what>\nC. < company sell branch $>\nD. < analyst set company>\nE. < company fell>\n",
+      "output": "A.  < company decide>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< lewinsky submitted affidavit>, < lewinsky lie it>, < put lewinsky list>, < lewinsky visited house>, < moved lewinsky>, < lewinsky encountered problem>, < lewinsky showed up night>, < anything relating lewinsky>, ",
+      "input": "A. < lewinsky determined>\nB. < lewinsky urinating sidewalk>\nC. < lewinsky match>\nD. < audience used lewinsky>\nE. < chief had lewinsky>\n",
+      "output": "E. < anything relating lewinsky>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< born benefactor>, < benefactor spent career>, < benefactor donated $ israel>, < benefactor creating program>, < benefactor firmed tie>, < benefactor received degree>, < benefactor worked army>, < benefactor resumed position>, ",
+      "input": "A. < benefactor s unclear>\nB. < i read benefactor>\nC. < benefactor retired>\nD. < benefactor called>\nE. < benefactor charges customer>\n",
+      "output": "C.  < benefactor resumed position>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< reno micromanages department>, < reno asks herald matter>, < reno ended up>, < reno focused issue>, < departure left reno>, < reno replaced lawyer>, < reno strides room>, < reno reads>, ",
+      "input": "A. < reno stood>\nB. < reno are dependent>\nC. < section included reno>\nD. < reno penetrates level>\nE. < reno roll>\n",
+      "output": "D.  < reno reads>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< goelet remained chairman>, < goelet founded foundation>, < named building goelet>, < born goelet>, < goelet grew up>, < goelet attended school>, < goelet graduated harvard>, < award given goelet>, ",
+      "input": "A. < offer values goelet punt>\nB. < goelet finished 129>\nC. < goelet split picture>\nD. < survived goelet>\nE. < co. raised rating goelet>\n",
+      "output": "D.  < award given goelet>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< piazza threw out basestealer>, < run gave piazza>, < piazza caught ingram>, < piazza joked>, < piazza s smart>, < piazza spot fastball>, < satisfied piazza way>, < piazza throwing way>, ",
+      "input": "A. < piazza surrendered yard state>\nB. < carved piazza>\nC. < piazza includes profile>\nD. < piazza reach velocity>\nE. < piazza washed mark>\n",
+      "output": "D.  < piazza throwing way>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< ophuls met>, < ophuls married wall>, < lured ophuls>, < story gave ophuls>, < ophuls loved milieu film>, < ophuls landed>, < someone offer ophuls>, < ophuls directed picture>, ",
+      "input": "A. < mantius write ophuls>\nB. < booked ophuls>\nC. < concerned ophuls brazilians>\nD. < ophuls remember impression>\nE. < ophuls pick way tomato>\n",
+      "output": "D.  < ophuls directed picture>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< horn crane neck english>, < horn looked>, < magazine handed horn>, < matched up horn duncan>, < coached horn>, < horn came up victory>, < asked thomas horn>, < sixer drafted horn pick>, ",
+      "input": "A. < horn started site>\nB. < horn added>\nC. < horn earned rave>\nD. < stuck horn model>\nE. < release include horn>\n",
+      "output": "C.  < sixer drafted horn pick>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< shields looks teen-ager>, < shields sips cappuccino>, < shields caught up>, < shields seduces doctor>, < used shields>, < agassi gave shields>, < shields wears ring>, < shields explains andre>, ",
+      "input": "A. < shields school some>\nB. < arm supported shields>\nC. < shields pursues approach>\nD. < shields awaiting delivery>\nE. < shields adds grin>\n",
+      "output": "E. < shields explains andre>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< court reinstated punishment>, < court struck down conviction>, < court vacated sentence>, < court reconsider conviction>, < court issued decision>, < court reaffirmed decision>, < court hear court>, < brower agreed court>, ",
+      "input": "A. < court followed procedure>\nB. < court savor element>\nC. < court survive>\nD. < court clinched appearance>\nE. < court failed score>\n",
+      "output": "A.  < brower agreed court>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< pierce found pierce>, < pierce called home>, < incident left pierce>, < pierce was calm>, < pierce flew>, < pierce needed plane>, < pierce flapped way>, < pierce shot 3>, ",
+      "input": "A. < pierce hit ball>\nB. < pierce pointed out lack>\nC. < pierce decided>\nD. < argument convince pierce>\nE. < pierce leaving>\n",
+      "output": "A.  < pierce shot 3>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< seen stonecipher executive>, < stonecipher dismissed talk>, < stonecipher concentrated strategy>, < stonecipher is unsentimental>, < raised stonecipher>, < stonecipher worked way>, < married stonecipher sweetheart>, < feared stonecipher>, ",
+      "input": "A. < stonecipher supported phil>\nB. < stonecipher told group>\nC. < stonecipher decide>\nD. < company had stonecipher>\nE. < i knock stonecipher>\n",
+      "output": "B.  < feared stonecipher>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< anderson averaged point>, < anderson added>, < anderson rejected offer>, < anderson sign>, < anderson trade anderson>, < losing anderson>, < represented anderson>, < anderson changed agent>, ",
+      "input": "A. < anderson showed kick>\nB. < audience thinking anderson>\nC. < anderson spoil holiday>\nD. < anderson reconsider>\nE. < anderson nursing litigation>\n",
+      "output": "D.  < anderson changed agent>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< blanch stood up>, < blanch criticized record>, < blanch left job>, < blanch reaching settlement>, < blanch help resolve>, < blanch ensure>, < blanch noticed problem>, < suited blanch job>, ",
+      "input": "A. < blanch be inhumane>\nB. < job consulted blanch>\nC. < blanch become critical>\nD. < blanch won election>\nE. < company gave blanch>\n",
+      "output": "C.  < suited blanch job>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< father introduced himself event>, < father thrown>, < father sleep off troubles>, < police returned father>, < father mouthing off england>, < father disparaged father>, < father selected base>, < father replacing parent>, ",
+      "input": "A. < father ends up>\nB. < rebuilding father $>\nC. < father pays home>\nD. < father stirring>\nE. < lucic accused father father>\n",
+      "output": "E. < father replacing parent>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< penn based story experience>, < penn returns forthcoming>, < penn rubs thumb>, < penn directing nicholson>, < penn smiles more>, < known penn behavior>, < penn cast wright>, < penn lives>, ",
+      "input": "A. < penn is quick>\nB. < penn showed i>\nC. < penn share value>\nD. < advice encourage penn>\nE. < penn announces wave>\n",
+      "output": "D.  < penn lives>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< calhoun answer>, < calhoun correct report>, < divorced calhoun>, < find calhoun>, < calhoun turn on>, < calhoun s competitive>, < calhoun turn off switch>, < calhoun open door>, ",
+      "input": "A. < calhoun wed wife>\nB. < situation intensified calhoun>\nC. < calhoun warned>\nD. < calhoun issue share>\nE. < known venture calhoun>\n",
+      "output": "A.  < calhoun open door>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< crushed ted>, < ted live>, < ted showed>, < ted found piece>, < ted wanted piece>, < ted moved>, < ted retreated>, < ted bought acre>, ",
+      "input": "A. < ted worked summer>\nB. < kaczynski had ted>\nC. < ted occupied>\nD. < ted is real>\nE. < ted destroy system>\n",
+      "output": "A.  < ted bought acre>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< elster stick elster elster>, < elster boomed field>, < Take elster>, < elster deserves best>, < elster missed most>, < elster recovering>, < elster read>, < elster recuperating>, ",
+      "input": "A. < elster mean>\nB. < elster looks lot>\nC. < elster started rally>\nD. < elster maintain value>\nE. < elster own stock>\n",
+      "output": "B.  < elster recuperating>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< congress grant clinton>, < clinton appeared>, < clinton introduce legislation>, < clinton endorse legislation>, < clinton add ban>, < compromise forces clinton>, < clinton sends we>, < clinton loads up bill>, ",
+      "input": "A. < clinton suspended more>\nB. < clinton sent mission paris>\nC. < clinton use opposition plank>\nD. < clinton remove oversight>\nE. < clinton were peaceful>\n",
+      "output": "C.  < clinton loads up bill>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< man spends part>, < talking man>, < man works>, < referred owner man>, < man yelled helper>, < man believes>, < man is quick>, < man respond>, ",
+      "input": "A. < man enrich uranium>\nB. < man taxes landowner>\nC. < publishers offered man>\nD. < man carries wound>\nE. < man drew crowd>\n",
+      "output": "C.  < man respond>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< company betting furby>, < furby bug eye>, < furby hit shelf>, < furby becomes snippy>, < furby sneeze>, < furby speaks furbish>, < furby learns furby>, < furby interacts furby>, ",
+      "input": "A. < furby sets furby>\nB. < sent furby bench>\nC. < furby are unlikely>\nD. < scared furby>\nE. < furby fill in week night>\n",
+      "output": "D.  < furby interacts furby>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< kasich looks 27>, < kasich acts>, < kasich lacks maturity>, < kasich was strongest>, < kasich underestimate i>, < kasich delivers message>, < there finds kasich>, < cook saw kasich>, ",
+      "input": "A. < kasich giving up six>\nB. < kasich speaking>\nC. < controlled kasich>\nD. < kasich serves city>\nE. < kasich acquire inc. $>\n",
+      "output": "B.  < cook saw kasich>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< identified pulaski>, < laid out pulaski>, < wounded pulaski>, < hit pulaski>, < named town pulaski>, < taken pulaski plantation>, < shot pulaski>, < pulaski died>, ",
+      "input": "A. < encouraged pulaski>\nB. < pulaski is able>\nC. < encounter draw pulaski student>\nD. < buried pulaski>\nE. < pulaski sells>\n",
+      "output": "D.  < pulaski died>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< brown win sunday>, < brown lives>, < brown returns>, < brown followed cowboys>, < amused brown>, < game gives brown>, < brown operates fan>, < brown downplayed thought>, ",
+      "input": "A. < brown told sanders confession>\nB. < brown s jealous>\nC. < brown killed child>\nD. < brown settle tim>\nE. < brown stop>\n",
+      "output": "B.  < brown downplayed thought>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< torres living>, < charged torres count>, < torres pleaded>, < torres served year>, < released torres>, < torres looked bench>, < brought out torres>, < torres arraigned>, ",
+      "input": "A. < torres is exposed>\nB. < torres wear brace>\nC. < torres returned>\nD. < driven torres>\nE. < beckner absorbed torres>\n",
+      "output": "D.  < torres arraigned>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< chairman concedes>, < chairman pushed chairman board>, < chairman invited member>, < chairman brought>, < named chairman board>, < appointed chairman>, < chairman works>, < chairman help>, ",
+      "input": "A. < shot bury chairman bunker>\nB. < chairman pushed out officer>\nC. < chairman offered hope>\nD. < stock paid cash chairman>\nE. < chairman called>\n",
+      "output": "B.  < chairman help>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< messinger demanded>, < messinger expand>, < messinger calling standard>, < messinger assumed risk>, < reminded messinger setting>, < messinger speak>, < messinger grimaced>, < messinger paused>, ",
+      "input": "A. < messinger kept bat>\nB. < messinger invest yuan>\nC. < messinger receives call>\nD. < messinger found evidence>\nE. < messinger pushed>\n",
+      "output": "E. < messinger paused>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< morris shake head>, < morris rushed season>, < morris showed move>, < campbell called morris>, < morris led conference>, < morris display responsibility>, < morris succeed>, < help morris>, ",
+      "input": "A. < cloud had morris>\nB. < morris need scoot>\nC. < morris weighing vote>\nD. < morris expand effect>\nE. < modell told morris>\n",
+      "output": "E. < help morris>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< yore moved>, < yore lacked opinion>, < yore developed habit>, < yore amazed nd>, < yore quoting limit>, < instinct served yore>, < yore grew up>, < yore share enthusiasm>, ",
+      "input": "A. < yore dashed off letter>\nB. < yore displaying mondrian>\nC. < yore told maxa>\nD. < taken yore>\nE. < yore pay service>\n",
+      "output": "C.  < yore share enthusiasm>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< brien recovered>, < that made up brien>, < diagnosed brien disorder>, < medication gave brien>, < brien focus concentration>, < brien realized>, < brien gave up alcohol>, < brien chasing barrier>, ",
+      "input": "A. < brien delayed installment>\nB. < brien assumed lead>\nC. < brien releases decathlon>\nD. < brien open height>\nE. < compared brien organism>\n",
+      "output": "D.  < brien chasing barrier>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< engaged hundley sort>, < hundley learning position>, < hundley added>, < hundley be ready>, < hundley return>, < valentine given hundley>, < place play hundley>, < hundley ruled out>, ",
+      "input": "A. < hundley visited>\nB. < hundley gaining vote>\nC. < hundley sell print>\nD. < hundley grew up>\nE. < hundley work>\n",
+      "output": "E. < hundley ruled out>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< hamid returned>, < hamid take off scarf>, < hamid end career>, < hamid tried modeling>, < hamid wearing scarf>, < hamid practice religion>, < hamid working>, < hamid remains job>, ",
+      "input": "A. < airways strengthen hamid>\nB. < hamid called woman>\nC. < vexed hamid>\nD. < hamid presents vii committee>\nE. < hamid settled lawsuit>\n",
+      "output": "C.  < hamid remains job>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< texaco spends percent production>, < texaco reverse ratio>, < texaco consider return>, < texaco made up what>, < texaco lost>, < texaco earned $>, < texaco showed profit>, < texaco seeking alliance>, ",
+      "input": "A. < texaco identify company>\nB. < texaco are likely>\nC. < texaco holds up lewis>\nD. < texaco downplaying letter>\nE. < texaco approach it>\n",
+      "output": "A.  < texaco seeking alliance>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< mother accepted apology>, < mother break that>, < mother felt>, < mother declare mother>, < mother deny that>, < mother argue>, < mother is asian-american>, < mother amassed following>, ",
+      "input": "A. < no. voted mother>\nB. < mother estranges following>\nC. < recognized mother>\nD. < mother are likely>\nE. < mother sagged>\n",
+      "output": "B.  < mother amassed following>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< alma designed plate>, < alma provides scholarship>, < company set alma>, < alma let arthur>, < she end alma>, < alma travel>, < alma sailed>, < masseys inform alma>, ",
+      "input": "A. < alma performs song quality>\nB. < alma want rest>\nC. < masseys took alma houston>\nD. < alma used>\nE. < alma described zellner woman>\n",
+      "output": "C.  < masseys inform alma>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< keep serbs>, < serbs violated ban>, < serbs include part>, < serbs need vote>, < serbs content serbs retaking>, < serbs threaten civilian>, < establishment prompt serbs>, < serbs agree advance>, ",
+      "input": "A. < serbs adding route>\nB. < test serbs>\nC. < serbs pressing bihac.>\nD. < luring serbs>\nE. < wins serbs>\n",
+      "output": "C.  < serbs agree advance>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< president confirmed heat>, < president wanted riley>, < president spoken>, < president asked knicks permission>, < president sounded season>, < president insisted>, < president compensate knick anything>, < president hoped>, ",
+      "input": "A. < president completed 5>\nB. < president re>\nC. < telling president>\nD. < president leave>\nE. < president developed lot>\n",
+      "output": "D.  < president hoped>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< martin invited colleague>, < martin present concert>, < martin discusses idea>, < martin accepts suggestions suggestions>, < martin is responsible>, < martin regards compromise>, < martin sell one>, < martin explained>, ",
+      "input": "A. < martin remains opinion>\nB. < martin risen>\nC. < martin own railcar>\nD. < festival promising martin>\nE. < martin rehearsing>\n",
+      "output": "E. < martin explained>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< dole put priority tax>, < asked dole>, < dole reconcile drive>, < dole told tribune>, < dole implement cut>, < dole balancing budget>, < dole cut $>, < dole spend week>, ",
+      "input": "A. < dole traveled convention>\nB. < dole moved>\nC. < alarmed dole>\nD. < dole repeated contention>\nE. < dole give hijacker>\n",
+      "output": "A.  < dole spend week>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< nichols purchased pound>, < nichols canoe>, < nichols likes outdoors>, < nichols ask we>, < nichols looking bike>, < nichols called nichols prison>, < nichols talked minute>, < nichols denied involvement>, ",
+      "input": "A. < woman lived nichols>\nB. < fbi questioned nichols>\nC. < nichols exploring harryman>\nD. < nichols hold up fetus>\nE. < amazed nichols>\n",
+      "output": "B.  < nichols denied involvement>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< chairman included charge>, < chairman hired employee>, < chairman received kickback worker>, < chairman embezzled money office>, < accused chairman>, < chairman pleaded>, < chairman rejected chairman>, < chairman serve month>, ",
+      "input": "A. < analyst criticized chairman>\nB. < nothing acknowledged chairman>\nC. < chairman drawn most nontraditionalist>\nD. < chairman accept season>\nE. < chairman pay fine>\n",
+      "output": "E. < chairman serve month>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< clinton meet>, < clinton dine lunch>, < clinton address parliament>, < clinton like style>, < clinton views lunch duck>, < lunch sees clinton>, < clinton re>, < some smear clinton>, ",
+      "input": "A. < clinton cleanse ourselves start>\nB. < clinton hurdling javelin>\nC. < leaders arrived rica clinton>\nD. < clinton rose>\nE. < ireland realized clinton>\n",
+      "output": "D.  < some smear clinton>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< bono admits area>, < bono copy verbiage>, < bono wanted>, < bono suggested>, < bono deliver it>, < bono asked liar>, < bono is concise>, < diatribe earned bono>, ",
+      "input": "A. < detractor criticizing bono>\nB. < bono rein marketing>\nC. < bono bruised>\nD. < bono look>\nE. < schumer hit bono>\n",
+      "output": "A.  < diatribe earned bono>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< dodgers needed corner>, < dodgers scraped output>, < dodgers expelled breath>, < dodgers responded home>, < dodgers run off dyer>, < dodgers pulled muscle>, < dodgers running base>, < dodgers struck out three>, ",
+      "input": "A. < dodgers ejected osuna>\nB. < dodgers record anything>\nC. < dodgers faces tv>\nD. < everybody tell dodgers>\nE. < dodgers delivering pitch>\n",
+      "output": "E. < dodgers struck out three>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< capers spends amount>, < capers working plan>, < capers evolved coach>, < capers is meticulous>, < capers mentions term>, < capers backing off>, < capers pleading reporter>, < capers find none>, ",
+      "input": "A. < capers became vacant>\nB. < prodded capers>\nC. < coach carried capers>\nD. < capers quarterbacks coordinator>\nE. < capers put taxpayer go>\n",
+      "output": "B.  < capers find none>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< bon turned 90>, < people give bon>, < party thank bon>, < volunteer driven bon>, < bon hear bon>, < bon suffered stroke>, < bon break hip>, < bon understood everything>, ",
+      "input": "A. < bon stood>\nB. < bon quoted official>\nC. < bon occupy position>\nD. < bon remain>\nE. < husband wiped out bon>\n",
+      "output": "A.  < bon understood everything>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< mccoy found sublet>, < mccoy wanted space>, < mccoy added rug>, < mccoy skirted shoal>, < mccoy weathered storm>, < drawn mccoy>, < painted mccoy>, < mccoy achieved balance>, ",
+      "input": "A. < none compete mccoy>\nB. < mccoy distribute gain>\nC. < condition pleasing mccoy>\nD. < mccoy pushed>\nE. < used mccoy>\n",
+      "output": "C.  < mccoy achieved balance>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< suspected martin brownlee>, < martin met brownlee>, < brownlee dating aunt>, < help brownlee>, < brownlee faces count>, < scheduled brownlee trial>, < arrested brownlee>, < brownlee driving sl-500>, ",
+      "input": "A. < game added brownlee>\nB. < convicted brownlee>\nC. < brownlee hosted club>\nD. < brownlee paying $>\nE. < brownlee spread leg>\n",
+      "output": "B.  < brownlee driving sl-500>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< ferguson charged>, < ferguson told ferguson>, < ferguson caused difficulty>, < ferguson began proceedings>, < days sued ferguson damages>, < ferguson moved>, < ferguson worked handyman>, < ferguson converted home building>, ",
+      "input": "A. < ferguson put things business>\nB. < ferguson receiving permit>\nC. < ferguson grow wine>\nD. < ferguson using intimidation worker>\nE. < ferguson ditched tradition>\n",
+      "output": "B.  < ferguson converted home building>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< hoffa lined up endorsement>, < leader backing hoffa>, < mobilize member hoffa>, < hoffa began front-runner>, < hoffa promised change>, < group supports hoffa>, < hoffa restore influence>, < hoffa wins>, ",
+      "input": "A. < elected hoffa>\nB. < hoffa replied>\nC. < hoffa be underreported>\nD. < hoffa are visible>\nE. < hoffa prevent participation>\n",
+      "output": "A.  < hoffa wins>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< ames spied moscow>, < described ames spy>, < ames betrayed agents russians>, < seized ames>, < ames work>, < kgb rewarded ames dollar>, < interviewed ames>, < ames contends>, ",
+      "input": "A. < ames moved category>\nB. < ames gave kgb>\nC. < ames approved settlement>\nD. < ames take away spirit>\nE. < committee enter ames>\n",
+      "output": "B.  < ames contends>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< iraq changed decision>, < iraq back>, < iraq drop promise>, < iraq exports percent>, < iraq postponed expulsion>, < council listen iraq>, < iraq determine>, < iraq composes commission>, ",
+      "input": "A. < iraq possesses build>\nB. < long-shot considered iraq>\nC. < iraq categorizes people>\nD. < iraq caused revolt>\nE. < many earn iraq>\n",
+      "output": "A.  < iraq composes commission>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< myatt stood>, < myatt asked>, < myatt confessed>, < myatt told something>, < myatt used jelly medium>, < myatt painted masterworks>, < wife abandoned myatt>, < myatt scratch out art>, ",
+      "input": "A. < myatt give dufy>\nB. < myatt misrepresented fact>\nC. < get name myatt>\nD. < myatt saved myatt>\nE. < myatt creating wave>\n",
+      "output": "A.  < myatt scratch out art>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< center pleaded>, < charged center count>, < center obstruct function>, < deputy sentenced center month>, < center testified>, < center graduated university>, < center served secretary>, < center seem>, ",
+      "input": "A. < center acknowledged>\nB. < center get off topic>\nC. < center was attainable>\nD. < center stopped>\nE. < center licensed rights pictures>\n",
+      "output": "A.  < center seem>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< walsh built facial>, < walsh believe>, < walsh seem pioneer>, < landing walsh gladiator>, < walsh knocked off>, < According walsh>, < irritation prompted walsh>, < walsh stood out>, ",
+      "input": "A. < walsh nominated kennard>\nB. < walsh set up>\nC. < walsh distort income>\nD. < walsh shouted>\nE. < walsh needed grit>\n",
+      "output": "E. < walsh stood out>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< suspended belle>, < belle appealed suspension>, < belle used bat>, < belle developed measure>, < entitled belle presumption>, < belle hitting lot>, < belle heard thing>, < belle admitted>, ",
+      "input": "A. < belle was guilty>\nB. < belle criticized slugger>\nC. < paralyzed belle>\nD. < belle received contract government>\nE. < you talk belle>\n",
+      "output": "A.  < belle admitted>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< bassler regards life work>, < bassler grew up>, < bassler progressed>, < bassler moved>, < noticed bassler>, < bassler experimenting relief>, < bassler show life>, < struck bassler>, ",
+      "input": "A. < bassler calls barrier>\nB. < bassler put actor disadvantage>\nC. < bassler defied party>\nD. < bassler heard>\nE. < bassler subjecting bassler procedure>\n",
+      "output": "A.  < struck bassler>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< lett intercepted pass>, < lett returned it>, < lett s quick>, < lett shown flash>, < lett earned spot>, < lett forced fumble>, < lett entered 1996>, < sack compiled lett>, ",
+      "input": "A. < lett need leader>\nB. < lett tackle fumble>\nC. < defense kept lett play>\nD. < lett m>\nE. < lett fighting fight>\n",
+      "output": "B.  < sack compiled lett>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< antley break down>, < antley tested>, < suspended antley sport>, < antley get down pound>, < antley believes>, < antley returned>, < antley decided>, < antley ride>, ",
+      "input": "A. < antley rose>\nB. < antley needed resolve>\nC. < antley drew stall>\nD. < antley returning>\nE. < antley release report>\n",
+      "output": "B.  < antley ride>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< santoro flew>, < santoro watched video>, < valium given santoro>, < gaynor turned over santoro artist>, < santoro told lidocaine>, < santoro throwing up>, < santoro lost job>, < santoro thrashed>, ",
+      "input": "A. < santoro shares home woman>\nB. < santoro swishing 3-pointer>\nC. < santoro awake>\nD. < santoro sings>\nE. < gaynor injected santoro>\n",
+      "output": "E. < santoro thrashed>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< send chief>, < flying chief>, < chief left corps>, < chief talked>, < chief drew up proposal>, < chief circled globe>, < chief representing>, < chief complete program>, ",
+      "input": "A. < chief ban signature>\nB. < chief stay>\nC. < chief spotted bow>\nD. < chief begin experiment>\nE. < demoting chief>\n",
+      "output": "D.  < chief complete program>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< brother brought out robin>, < robin asked familyfor>, < robin told robin>, < robin waiting kidney>, < robin tethered machine>, < robin drained>, < robin read>, < robin shoulder duty>, ",
+      "input": "A. < confused robin>\nB. < robin wins one>\nC. < robin bang out round>\nD. < father giving robin>\nE. < life discredit robin>\n",
+      "output": "D.  < robin shoulder duty>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< marston died>, < marston gain florida>, < chosen marston>, < marston succeeded shannon>, < marston took over crossroads>, < marston drafted memorandum>, < marston advised superior department>, < dismissed marston>, ",
+      "input": "A. < destroyed marston>\nB. < marston recite name>\nC. < university seeking revenge marston>\nD. < marston graduated institute>\nE. < marston Starting section>\n",
+      "output": "D.  < dismissed marston>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< daly pop clutch>, < daly learned>, < hired daly>, < father pick up daly>, < daly ride>, < daly working>, < boss pressed daly day>, < joining daly>, ",
+      "input": "A. < daly stay>\nB. < daly buy inc. $>\nC. < daly run>\nD. < daly confined generation>\nE. < daly reported>\n",
+      "output": "A.  < joining daly>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< party join champion>, < champion withdraw>, < champion dipped>, < champion broken 70>, < champion finds something>, < champion consider>, < champion missed cut>, < champion draws solace way>, ",
+      "input": "A. < champion cut back spending>\nB. < champion bringing order it>\nC. < champion lend legitimacy leader>\nD. < champion finished>\nE. < champion rose>\n",
+      "output": "D.  < champion draws solace way>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< exxon produce oil>, < exxon tackle problem>, < exxon decides>, < exxon profit>, < exxon planned>, < exxon acted>, < exxon nailing down fundamental>, < exxon announced>, ",
+      "input": "A. < i bashing exxon>\nB. < exxon epitomizes habit>\nC. < get exxon>\nD. < exxon reap foot>\nE. < exxon use information>\n",
+      "output": "D.  < exxon announced>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< kizu set up companies>, < kizu expanded lending>, < kizu shrank>, < kizu lured deposit>, < kizu offering rate>, < including kizu>, < kizu suffered spate>, < kizu lost percent>, ",
+      "input": "A. < fired kizu>\nB. < kizu told reporter>\nC. < kizu owns executive>\nD. < bank lend fund kizu>\nE. < signatures has kizu>\n",
+      "output": "D.  < kizu lost percent>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< he running gingrich>, < band re-elect gingrich>, < band blamed gingrich>, < gingrich wins ballot>, < deny gingrich>, < livingston told gingrich>, < gingrich step good>, < livingston spoke gingrich>, ",
+      "input": "A. < event cost gingrich>\nB. < gingrich promoting record>\nC. < gingrich was worried>\nD. < gingrich stars speaker gynecologist>\nE. < gingrich working phone>\n",
+      "output": "E. < livingston spoke gingrich>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< caller gave>, < caller volunteering>, < caller kept perspective life>, < caller experiencing lot>, < people tell caller>, < caller spread spirit>, < caller received call>, < caller contributes way>, ",
+      "input": "A. < caller marketing drug>\nB. < caller believe>\nC. < caller recommending stock>\nD. < caller pop out one field>\nE. < one works caller>\n",
+      "output": "B.  < caller contributes way>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< leoni pronounces name>, < truth stars leoni wife>, < concerned leoni what>, < leoni joked>, < leoni concedes arrogance>, < leoni recalled>, < leoni s willing>, < leoni attempt>, ",
+      "input": "A. < you told leoni>\nB. < leoni emerged>\nC. < pushed leoni>\nD. < leoni is admirable>\nE. < leoni walks out>\n",
+      "output": "E. < leoni attempt>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< board give brown>, < brown clamped down standard>, < brown nursed bank>, < brown remained chairman>, < time reach out brown>, < brown agreed takeover>, < born brown>, < brown served>, ",
+      "input": "A. < brown worked briefly>\nB. < brown picked pocket>\nC. < law had brown>\nD. < brown graduated>\nE. < brown remains agency>\n",
+      "output": "A.  < brown served>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< forward wrings out effort>, < forward heard surface>, < dismayed forward>, < calipari reassured forward>, < traded forward>, < forward using injury chip>, < forward keep forward>, < forward learn season>, ",
+      "input": "A. < forward joked>\nB. < forward understand that>\nC. < forward wondered what>\nD. < guys test forward>\nE. < forward mounted one>\n",
+      "output": "B.  < forward learn season>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< cortines pursued routine>, < cortines met official>, < cortines was forceful>, < arce visited cortines>, < cortines defended hellenbrand point>, < cortines arrived>, < chauffeur drove cortines ceremony>, < cortines beamed>, ",
+      "input": "A. < according cortines>\nB. < cortines represents cost>\nC. < confined cortines home>\nD. < cortines continued>\nE. < cortines received embrace>\n",
+      "output": "E. < cortines beamed>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< posing boshnack>, < boshnack earned million>, < boshnack selling security>, < boshnack lied official>, < boshnack used practice>, < arrested boshnack>, < arraigned boshnack>, < nasd charged boshnack>, ",
+      "input": "A. < sec write boshnack>\nB. < boshnack need resend>\nC. < boshnack change stocks>\nD. < boshnack wrote irony>\nE. < boshnack specialized>\n",
+      "output": "E. < nasd charged boshnack>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< notified morrison>, < morrison contracted virus>, < morrison conducted morrison>, < morrison dedicate life>, < morrison hear message>, < morrison put it>, < profile dwarfs morrison>, < morrison stand one>, ",
+      "input": "A. < morrison swallow drive>\nB. < morrison reversed stand>\nC. < morrison help what>\nD. < attempted morrison center>\nE. < one dealing morrison>\n",
+      "output": "E. < morrison stand one>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< gini dug out $>, < gini counted out cent>, < gini buy cream>, < gini walked>, < gini wore suit>, < gini kept>, < nobody noticed gini>, < nobody remembered gini>, ",
+      "input": "A. < gini fear>\nB. < gini attract expatriate>\nC. < replaced gini>\nD. < gini heard activity>\nE. < gini trade question>\n",
+      "output": "D.  < nobody remembered gini>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< norman stands>, < norman break 70>, < norman finished championship>, < norman missed cut>, < norman aggravated shoulder>, < norman hit ball>, < norman withdrew morning>, < norman rested>, ",
+      "input": "A. < norman praised hernandez barometer>\nB. < couched norman>\nC. < norman be hype>\nD. < nazis finished norman>\nE. < norman return masters>\n",
+      "output": "E. < norman rested>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< clippers ran>, < clippers ended streaks>, < clippers waiting work>, < clippers showed>, < embarrassed clippers>, < clippers s early>, < clippers counted>, < clippers re>, ",
+      "input": "A. < clippers hope>\nB. < recognized clippers one>\nC. < clippers paying quarter>\nD. < clippers was afraid>\nE. < clippers want government>\n",
+      "output": "A.  < clippers re>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< dole acted scourge>, < hand defend dole>, < dole use>, < dole challenge scott>, < dole responded>, < candidate turned down dole>, < understood dole>, < committee confirm dole>, ",
+      "input": "A. < dole happened>\nB. < dole fell>\nC. < expel dole>\nD. < dole quit senate>\nE. < dole continues jinks>\n",
+      "output": "D.  < committee confirm dole>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< yankees waged war>, < yankees give rogers>, < yankees signed key agent>, < yankees amassed victory>, < yankees suffered injury cuff>, < yankees missed season>, < yankees look pitchers>, < yankees are certain>, ",
+      "input": "A. < yankees told reporter>\nB. < jolt yankees>\nC. < yankees are easy>\nD. < yankees standing>\nE. < yankees match jays>\n",
+      "output": "E. < yankees are certain>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< committee concluded>, < committee absolved france responsibility>, < led committee>, < made committee>, < formed committee>, < committee described failure>, < committee found>, < cohen told committee>, ",
+      "input": "A. < committee suggested>\nB. < committee look>\nC. < committee call authorities house>\nD. < committee refashioned one>\nE. < committee suffered rebuff>\n",
+      "output": "A.  < cohen told committee>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< official filed suit murphy>, < murphy contends>, < murphy running center>, < murphy acknowledged>, < murphy denied they>, < murphy operates residence>, < murphy let lapse>, < murphy refrain>, ",
+      "input": "A. < murphy cooperate>\nB. < murphy maintains>\nC. < accept murphy>\nD. < murphy eliminated many>\nE. < launched murphy neighbors>\n",
+      "output": "B.  < murphy refrain>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< born ky>, < i remember ky>, < ky sit>, < ky strum guitar>, < ky sing>, < ky share story>, < stationed ky>, < ky talking family>, ",
+      "input": "A. < ky buying musical>\nB. < ky speak out>\nC. < ky reported result>\nD. < ky presented option>\nE. < ky alluded concern>\n",
+      "output": "A.  < ky talking family>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< fukuda died>, < fukuda held post>, < born fukuda>, < fukuda left ministry>, < implicated fukuda>, < indicted fukuda suspicion>, < suspended fukuda post>, < fukuda resigned>, ",
+      "input": "A. < fukuda revive economy>\nB. < fukuda argue>\nC. < conservative buy fukuda enough>\nD. < fukuda feel>\nE. < fukuda enter politics>\n",
+      "output": "E. < fukuda resigned>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< armey are hard>, < armey captured attention>, < armey setting up house>, < armey won spot>, < texans counting armey>, < armey joining cause>, < armey rule out possibility>, < armey run speaker>, ",
+      "input": "A. < armey trailing>\nB. < armey torpedoing>\nC. < ladder afford armey>\nD. < armey explains>\nE. < doubled armey>\n",
+      "output": "A.  < armey run speaker>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< amtrak deferred maintenance>, < congress established amtrak>, < amtrak uses percent>, < amtrak looked report>, < amtrak offer that>, < amtrak attract rider>, < amtrak eliminate need>, < government given amtrak>, ",
+      "input": "A. < amtrak sell anything>\nB. < passed amtrak servant>\nC. < railroad bring amtrak>\nD. < amtrak writes issue>\nE. < amtrak overcome problem>\n",
+      "output": "E. < government given amtrak>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< clingan exudes warmth>, < t-shirt given clingan>, < co-worker proclaiming clingan>, < clingan come off guy>, < backed clingan>, < clingan is good>, < clingan headed organization>, < clingan won award>, ",
+      "input": "A. < clingan quit school>\nB. < clingan concluded>\nC. < clingan bespectacled clingan>\nD. < clingan inject compound>\nE. < clingan based bid appeal>\n",
+      "output": "C.  < clingan won award>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< aznar laid out explanation>, < aznar shift some>, < aznar hopes>, < aznar save peseta>, < aznar shedding worker>, < aznar unifying government>, < aznar proposes cut>, < aznar wants enforcement>, ",
+      "input": "A. < starting aznar>\nB. < aznar advocates incentive>\nC. < aznar worked>\nD. < swallowing aznar>\nE. < aznar give you>\n",
+      "output": "B.  < aznar wants enforcement>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< kenseth earning reputation>, < kenseth jump>, < kenseth was able>, < kenseth hold off burton>, < kenseth won race>, < kenseth pass car>, < kenseth lost gear>, < kenseth racing>, ",
+      "input": "A. < enough deemed kenseth>\nB. < told kenseth>\nC. < kenseth ran investigation counsel>\nD. < kenseth explained>\nE. < parent speak kenseth>\n",
+      "output": "B.  < kenseth racing>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< institutionalized campbell>, < campbell imposed decision>, < making campbell>, < elected campbell percent>, < olympics provided campbell soapbox>, < campbell vetoed bill>, < campbell called increase>, < olympics helped campbell>, ",
+      "input": "A. < campbell predict it>\nB. < campbell create job>\nC. < father guided campbell>\nD. < olympics tested campbell>\nE. < campbell told>\n",
+      "output": "D.  < olympics helped campbell>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< bessie adjusted aid>, < bessie critiqued>, < bessie lives>, < bessie spent childhood>, < bessie moved>, < bessie found room>, < bessie landed position>, < bessie writing>, ",
+      "input": "A. < bessie remain>\nB. < bessie looking diplomat>\nC. < bessie confided>\nD. < beaming power bessie>\nE. < bessie buy>\n",
+      "output": "C.  < bessie writing>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< ellis announced mariners>, < mariners move>, < mariners faced member>, < mariners presented county>, < mariners pointed finger>, < mariners set deadline>, < mariners were mindful>, < mariners agreed>, ",
+      "input": "A. < mariners are african-american>\nB. < mariners wearing jacket>\nC. < that means mariners>\nD. < mariners concerned>\nE. < mariners is eligible>\n",
+      "output": "D.  < mariners agreed>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< occupied nbc>, < officer press nbc>, < nbc agreed deal>, < nbc moved it>, < nbc damaging asset>, < nbc loved show>, < chairman blasted nbc few>, < nbc losing show>, ",
+      "input": "A. < nbc won>\nB. < nbc accepted stipulation>\nC. < nbc passing value>\nD. < nbc covered terrain>\nE. < nbc lets out whoop>\n",
+      "output": "B.  < nbc losing show>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< whipple care play>, < whipple use>, < whipple tell>, < whipple is confident>, < whipple keep stats i>, < lot paid whipple>, < whipple entered season>, < whipple call play>, ",
+      "input": "A. < ' answer whipple>\nB. < whipple considering measure>\nC. < whipple step huddle>\nD. < whipple practicing coordination>\nE. < whipple sending boy>\n",
+      "output": "C.  < whipple call play>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< one bring score companies>, < one miss one>, < one show>, < one is available>, < administered one>, < provided one>, < used one>, < one includes swab>, ",
+      "input": "A. < stored one>\nB. < one extend root>\nC. < fear tell one>\nD. < one compares track colo.>\nE. < one winning one>\n",
+      "output": "A.  < one includes swab>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< silbermann hearing case>, < silbermann calling cases>, < silbermann sent letter>, < silbermann preside>, < silbermann remove judge>, < silbermann asked>, < silbermann refused>, < silbermann was able>, ",
+      "input": "A. < gave silbermann>\nB. < silbermann offering feature>\nC. < silbermann living>\nD. < sell silbermann competitor>\nE. < silbermann settle case>\n",
+      "output": "E. < silbermann was able>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< clinton accept kind>, < house impeach clinton>, < house try clinton>, < evidence supports clinton>, < clinton testify>, < clinton welcome appearance>, < clinton appear>, < clinton was certain>, ",
+      "input": "A. < censure told clinton>\nB. < clinton recommend>\nC. < clinton agreed>\nD. < clinton figure out>\nE. < clinton understood reason>\n",
+      "output": "B.  < clinton was certain>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< samaranch hammered point>, < samaranch drop drug list>, < samaranch punish those>, < reminded samaranch>, < samaranch pledged $>, < samaranch produce plan>, < samaranch bring federation>, < samaranch commit $>, ",
+      "input": "A. < samaranch use register>\nB. < samaranch orchestrated settlement>\nC. < samaranch sense>\nD. < samaranch suggested>\nE. < samaranch feel>\n",
+      "output": "D.  < samaranch commit $>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< stewart remained cable>, < central installs stewart host>, < stewart replace kilborn>, < reunited stewart producer>, < stewart inherit roomful>, < liked stewart>, < stewart follow network>, < locked stewart deal>, ",
+      "input": "A. < conducted stewart>\nB. < deal pay stewart>\nC. < investor need stewart>\nD. < stewart tells friend>\nE. < stewart leaving>\n",
+      "output": "B.  < locked stewart deal>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< cannibalized dole>, < dole emerged nominee>, < dole tried dole>, < dole lags>, < dole offers remembrance>, < dole hurt himself>, < dole attacking law>, < dole wanted provision>, ",
+      "input": "A. < dole continues president>\nB. < dole need drug>\nC. < dole check paper>\nD. < announcing dole>\nE. < needed dole>\n",
+      "output": "D.  < dole wanted provision>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< company paid $ corp.>, < company provides companies software>, < company hopes>, < strategy put company>, < company faces challenge>, < company fitting service line>, < company offer product>, < company announced agreement>, ",
+      "input": "A. < company help>\nB. < company facing examination>\nC. < company questioned>\nD. < company suing republic>\nE. < company remain leader>\n",
+      "output": "A.  < company announced agreement>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< chaudhuri died>, < chaudhuri lived>, < chaudhuri leaving india>, < chaudhuri drew>, < chaudhuri chronicled transformation>, < chaudhuri wrote>, < chaudhuri failed examination>, < chaudhuri threw post>, ",
+      "input": "A. < including chaudhuri>\nB. < chaudhuri passed>\nC. < chaudhuri meant>\nD. < chaudhuri devoted chaudhuri>\nE. < chaudhuri voted bill>\n",
+      "output": "D.  < chaudhuri threw post>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< you prepare carlesimo>, < carlesimo retorted>, < carlesimo m>, < person grabbed carlesimo many>, < person confronted carlesimo>, < hired carlesimo>, < carlesimo downplayed incident>, < carlesimo elaborate relationship>, ",
+      "input": "A. < carlesimo doubled>\nB. < carlesimo reveal face>\nC. < carlesimo expects stock>\nD. < carlesimo celebrate occasion>\nE. < carlesimo substituted guard>\n",
+      "output": "E. < carlesimo elaborate relationship>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< parker tackles performance work>, < parker garnered resume>, < seen parker neighbor>, < parker abandoned place>, < create parker>, < parker sit>, < parker reels off adjective>, < ask parker work>, ",
+      "input": "A. < parker offered one>\nB. < americans know parker>\nC. < parker talking value>\nD. < parker provided i wealth>\nE. < parker is unstable>\n",
+      "output": "A.  < ask parker work>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< taylor oppose extradition>, < arrested taylor apartment>, < adajian used taylor>, < krauss represented taylor>, < taylor perform hour>, < taylor serve year>, < taylor lived>, < taylor is clear>, ",
+      "input": "A. < taylor held share>\nB. < taylor underwent change>\nC. < taylor worked>\nD. < taylor vote he>\nE. < it takes taylor>\n",
+      "output": "B.  < taylor is clear>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< dealer put exhibition>, < dealer traces interest>, < dealer tagged>, < dealer studied design>, < dealer designed textile>, < dealer honing eye>, < dealer opened shop>, < dealer buying furniture>, ",
+      "input": "A. < dealer is bad>\nB. < dealer sends signal>\nC. < dealer m>\nD. < reminded dealer encounter>\nE. < dealer pitted friend>\n",
+      "output": "D.  < dealer buying furniture>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< kaczynski submitted solution journal>, < degree awarded kaczynski>, < kaczynski stayed>, < kaczynski lived parent>, < kaczynski appeared>, < kaczynski brought>, < kaczynski showing things>, < kaczynski told>, ",
+      "input": "A. < kaczynski seem>\nB. < clerk wanted kaczynski>\nC. < kaczynski won pole lap>\nD. < kaczynski hit>\nE. < kaczynski s much>\n",
+      "output": "A.  < kaczynski told>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< told hamilton>, < hamilton loses weight>, < chance given hamilton>, < hamilton working>, < hamilton s fat>, < hamilton take off it>, < hamilton attest skill>, < putting hamilton game>, ",
+      "input": "A. < hamilton submit shots agency>\nB. < hamilton run>\nC. < hamilton shower pardon>\nD. < hamilton pleaded>\nE. < hamilton writing mush>\n",
+      "output": "B.  < putting hamilton game>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< rehnquist rise>, < rehnquist leave briefly>, < rehnquist runs ship>, < rehnquist oversee proceedings>, < rehnquist wearing robe>, < rehnquist intimidating attorney>, < rehnquist yielded chaplain>, < rehnquist ordered>, ",
+      "input": "A. < spectators introduce rehnquist>\nB. < prosecutor treated rehnquist respect>\nC. < rehnquist selling rehnquist>\nD. < delay prevent rehnquist>\nE. < rehnquist allocate debt>\n",
+      "output": "B.  < rehnquist ordered>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< thomas talking return>, < drafted thomas linebacker>, < thomas led nfl sack>, < thomas dropped coverage>, < defense protect thomas>, < thomas losing contact>, < thomas cover receiver>, < thomas learning>, ",
+      "input": "A. < save thomas>\nB. < thomas goes out>\nC. < sold thomas>\nD. < had thomas>\nE. < thomas confirmed turnaround>\n",
+      "output": "B.  < thomas learning>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< eifman emphasized>, < people isolate eifman>, < eifman proselytize>, < eifman retell story>, < eifman interpret story>, < eifman reached today>, < eifman is jewish>, < eifman changed name>, ",
+      "input": "A. < eifman widen>\nB. < eifman appealed decision heroes>\nC. < eifman raised $>\nD. < born eifman>\nE. < biased eifman>\n",
+      "output": "D.  < eifman changed name>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< cook dinner>, < coach told>, < compete>, < quit>, < discovered victory>, < victory qualified championship>, < won championship>, < stay>, ",
+      "input": "A. < address situation>\nB. < accumulated>\nC. < s well-spoken>\nD. < place sidewalk>\nE. < believed>\n",
+      "output": "C.  < stay>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< knicks handled washington>, < knicks receive news>, < announced knicks>, < knicks beat up washington>, < knicks were free>, < knicks concentrate confrontation>, < knicks meet>, < knicks moved out knicks>, ",
+      "input": "A. < knicks emerge>\nB. < knicks look force>\nC. < knicks enjoyed anything>\nD. < knicks win>\nE. < knicks acquired williams>\n",
+      "output": "E. < knicks moved out knicks>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< producer producing bearing>, < producer described plant base>, < producer working company>, < producer is interested>, < producer revised estimate year>, < producer continue>, < producer holds stake>, < china bought producer $>, ",
+      "input": "A. < producer tears myself>\nB. < producer starting program>\nC. < producer am loath>\nD. < producer told publicist>\nE. < producer invest $>\n",
+      "output": "E. < china bought producer $>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< dole emphasizes origin>, < dole implies>, < dole responded>, < dole heard>, < dole refers dole>, < making dole>, < wounded dole>, < dole died>, ",
+      "input": "A. < dole raising temperature>\nB. < dole edges>\nC. < dole stand up>\nD. < nation insists dole>\nE. < detained dole>\n",
+      "output": "B.  < dole died>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< dropout earned $>, < found dropout>, < dropout was guilty>, < dropout received diploma>, < dropout rose>, < dropout planning robbery>, < dropout gave cousin>, < acquitted dropout>, ",
+      "input": "A. < convicted dropout degree>\nB. < pushing dropout>\nC. < root dropout>\nD. < dropout received grade>\nE. < dropout rose>\n",
+      "output": "A.  < acquitted dropout>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< portrait established degas artist>, < connect degas>, < degas painted picture>, < fascinated degas what>, < residue intrigued degas>, < degas considered degas>, < degas stayed indoor>, < terrified degas>, ",
+      "input": "A. < degas holding own>\nB. < held degas>\nC. < degas assembled player>\nD. < light blind degas>\nE. < degas be empty>\n",
+      "output": "D.  < terrified degas>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< parmalat rose>, < parmalat paying million>, < parmalat sell stake>, < parmalat followed strategy>, < parmalat remains bet>, < parmalat bought beatrice term>, < parmalat assume million>, < parmalat built load>, ",
+      "input": "A. < parmalat slow down acquisition>\nB. < arrested parmalat>\nC. < parmalat touched low>\nD. < parmalat prepare defense>\nE. < headed store parmalat>\n",
+      "output": "A.  < parmalat built load>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< sheena live father ardizoni>, < ardizoni fight ruling>, < ardizoni dispute arrangement>, < ardizoni asked court custody>, < ardizoni introduced evidence>, < ardizoni worked hearing>, < ardizoni improve life>, < ardizoni achieved success>, ",
+      "input": "A. < ardizoni overcoming dependence>\nB. < ardizoni turn sheena>\nC. < ardizoni started>\nD. < ardizoni help>\nE. < ardizoni headed>\n",
+      "output": "A.  < ardizoni achieved success>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< drafted choice>, < choice hoping tryout>, < choice returned yard>, < choice looked>, < choice score touchdown>, < beebe ran choice>, < choice recover goal>, < choice fumbled ball>, ",
+      "input": "A. < told choice>\nB. < choice dodged question>\nC. < choice vowed rematch>\nD. < choice commit suicide>\nE. < choice express stress>\n",
+      "output": "B.  < choice fumbled ball>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< athletically lauded ability>, < athletically considered>, < athletically compete job>, < challenged athletically>, < athletically responded>, < steeler draft athletically>, < keeping athletically telephone>, < athletically be long>, ",
+      "input": "A. < athletically spark>\nB. < athletically help we>\nC. < jets had athletically>\nD. < athletically count>\nE. < athletically need resend>\n",
+      "output": "B.  < athletically be long>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< wells fosters patriotism>, < wells died>, < wells enlisted founder>, < wells served president>, < wells stepped up>, < wells filled post>, < wells deems individual>, < wells founded foundation>, ",
+      "input": "A. < according wells>\nB. < foundation managing wells>\nC. < family protect wells downturn>\nD. < wells surged>\nE. < wells developed concept>\n",
+      "output": "E. < wells founded foundation>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< seen abdic character>, < abdic sells soul>, < abdic embezzled million>, < abdic joined government>, < abdic split>, < abdic returned>, < abdic running fiefdom>, < abdic was popular>, ",
+      "input": "A. < abdic declared half>\nB. < abdic support>\nC. < abdic hear karajic>\nD. < abdic retains control>\nE. < abdic look opportunity>\n",
+      "output": "A.  < abdic was popular>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< buchanan tells crowd>, < buchanan pack court justice>, < buchanan place moratorium regulation>, < buchanan blasts nations>, < buchanan feel>, < buchanan switches position>, < line made buchanan>, < buchanan broaden base>, ",
+      "input": "A. < buchanan appealing leader>\nB. < jitters cutting buchanan welfare>\nC. < player knew buchanan>\nD. < buchanan be available>\nE. < official taken buchanan lobster>\n",
+      "output": "A.  < buchanan broaden base>"
+   },
+   {
+      "instruction": "Can you anticipate the next event in the given process sequence? Please provide your prediction as A, B, C, D, or E without further explanation.\nProcesses:< showalter reacted>, < asked showalter>, < showalter contemplating look>, < showalter discussed neill>, < showalter reveal>, < showalter seemed>, < showalter elevated neill position>, < showalter indicated fifth>, ",
+      "input": "A. < showalter operates network>\nB. < completed showalter>\nC. < showalter provide information>\nD. < showalter be better>\nE. < showalter concluded>\n",
+      "output": "D.  < showalter indicated fifth>"
+   }
+]
