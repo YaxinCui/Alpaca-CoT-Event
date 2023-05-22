@@ -59,7 +59,7 @@ elif args.data == "alpaca-belle-cot":
 elif args.data == "negg_mini":
     DATA_PATH = "data/negg_mini.json"
     VAL_DATA_PATH = "data/negg_mini.json"
-elif args.data == "negg_train":
+elif args.data == "negg":
     DATA_PATH = "data/negg_train_data.json"
     VAL_DATA_PATH = "data/negg_dev_data.json"
 
@@ -98,6 +98,7 @@ config = LoraConfig(
 model = get_peft_model(model, config)
 tokenizer.pad_token_id = 0  # unk. we want this to be different from the eos token
 data = load_dataset("json", data_files=DATA_PATH)
+val_data = load_dataset("json", data_files=DATA_PATH)
 
 
 def generate_prompt(data_point):
@@ -189,7 +190,12 @@ def generate_and_tokenize_prompt(data_point):
     }
 
 
-train_data = data["train"].shuffle().map(generate_and_tokenize_prompt)
+if VAL_SET_SIZE > 0:
+    train_data = data["train"].shuffle().map(generate_and_tokenize_prompt)
+    val_data = val_data["train"].shuffle().map(generate_and_tokenize_prompt)
+else:
+    train_data = data["train"].shuffle().map(generate_and_tokenize_prompt)
+    val_data = None
     
 # from https://github.com/tloen/alpaca-lora/fintune.py    
 if not ddp and torch.cuda.device_count() > 1:
@@ -200,6 +206,7 @@ if not ddp and torch.cuda.device_count() > 1:
 trainer = transformers.Trainer(
     model=model,
     train_dataset=train_data,
+    eval_dataset=val_data,
     args=transformers.TrainingArguments(
         per_device_train_batch_size=MICRO_BATCH_SIZE,
         gradient_accumulation_steps=GRADIENT_ACCUMULATION_STEPS,
@@ -208,8 +215,13 @@ trainer = transformers.Trainer(
         learning_rate=LEARNING_RATE,
         fp16=False,
         logging_steps=20,
+        evaluation_strategy="steps" if VAL_SET_SIZE > 0 else "no",
+        save_strategy="steps",
+        eval_steps=200 if VAL_SET_SIZE > 0 else None,
+        save_steps=200,
         output_dir=OUTPUT_DIR,
         save_total_limit=3,
+        load_best_model_at_end=True if VAL_SET_SIZE > 0 else False,
         ddp_find_unused_parameters=False if ddp else None,
     ),
     data_collator=transformers.DataCollatorForLanguageModeling(tokenizer, mlm=False),

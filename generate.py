@@ -2,7 +2,6 @@ import sys
 import torch
 from peft import PeftModel
 import transformers
-import gradio as gr
 import argparse
 from transformers import (
     LlamaForCausalLM, LlamaTokenizer, 
@@ -14,17 +13,18 @@ parser.add_argument('--data', type=str, help='the data used for instructing tuni
 parser.add_argument('--model_type', default="llama", choices=['llama', 'chatglm', 'bloom'])
 parser.add_argument('--size', type=str, help='the size of llama model')
 parser.add_argument('--model_name_or_path', default="decapoda-research/llama-7b-hf", type=str)
-args = parser.parse_args()
+parser.add_argument('--lora_path', default="decapoda-research/llama-7b-hf", type=str)
 
+args = parser.parse_args()
+CUTOFF_LEN = 500
 assert (
     "LlamaTokenizer" in transformers._import_structure["models.llama"]
 ), "LLaMA is now in HuggingFace's main branch.\nPlease reinstall it: pip uninstall transformers && pip install git+https://github.com/huggingface/transformers.git"
 from transformers import LlamaTokenizer, LlamaForCausalLM, GenerationConfig
 
 
-LOAD_8BIT = False
 if args.model_type == "llama":
-    BASE_MODEL = "decapoda-research/llama-7b-hf"
+    BASE_MODEL = f"decapoda-research/llama-{args.size}b-hf"
     tokenizer = LlamaTokenizer.from_pretrained(BASE_MODEL)
     LORA_WEIGHTS = "./saved-"+args.data+args.size+"b"
 elif args.model_type == "bloom":
@@ -37,7 +37,7 @@ elif args.model_type == "chatglm":
     LORA_WEIGHTS = "./saved_chatglm" + args.data 
 
 
-
+#LORA_WEIGHTS = "./saved_models/llama-7b-hf_egg_trai/lora_old2/"
 
 
 if torch.cuda.is_available():
@@ -51,6 +51,8 @@ try:
 except:
     pass
 
+LOAD_8BIT = True
+
 if device == "cuda":
     if args.model_type == "llama":
         model = LlamaForCausalLM.from_pretrained(
@@ -59,11 +61,15 @@ if device == "cuda":
             torch_dtype=torch.float16,
             device_map="auto",
         )
+        print("model load from huggingface success")
+        """
         model = PeftModel.from_pretrained(
             model,
             LORA_WEIGHTS,
             torch_dtype=torch.float16,
         )
+        """
+        # print("lora load from local success")
     elif args.model_type == "bloom":
         model = BloomForCausalLM.from_pretrained(
             BASE_MODEL,
@@ -83,11 +89,14 @@ if device == "cuda":
             torch_dtype=torch.float16,
             device_map="auto",
         )
+        """
         model = PeftModel.from_pretrained(
             model,
             LORA_WEIGHTS,
             torch_dtype=torch.float16,
         )
+        """
+        # print("lora load from local success")
 elif device == "mps":
     if args.model_type == "llama":
         model = LlamaForCausalLM.from_pretrained(
@@ -156,24 +165,20 @@ else:
             LORA_WEIGHTS,
             device_map={"": device},
         )   
+        
+tokenizer.save_pretrained(BASE_MODEL)
+model.save_pretrained(BASE_MODEL)
 def generate_prompt(instruction, input=None):
-    if input:
-        return f"""Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+    return f"""### EXAM
+Single-choice Question: Based on the presented event processes sequence, please select the most likely subsequent event from the provided choices.
+Processes: {instruction}
 
-### Instruction:
-{instruction}
-
-### Input:
+### Event Options:
 {input}
 
-### Response:"""
-    else:
-        return f"""Below is an instruction that describes a task. Write a response that appropriately completes the request.
-
-### Instruction:
-{instruction}
-
-### Response:"""
+### Response:
+The format for your answer should be "?. (xxx, xxx, xxx…)". So the next predected correct option is: 
+"""
 
 if not LOAD_8BIT:
     model.half()  # seems to fix bugs for some users.
@@ -190,7 +195,7 @@ def evaluate(
     top_p=0.9,
     top_k=40,
     num_beams=4,
-    max_new_tokens=512,
+    max_new_tokens=20,
     **kwargs,
 ):
     prompt = generate_prompt(instruction, input)
@@ -216,37 +221,12 @@ def evaluate(
         )
     s = generation_output.sequences[0]
     output = tokenizer.decode(s)
-    return output.split("### Response:")[1].strip()
+    output = output.split("So the next predected correct option is: ")[-1].strip()
+    return output
 
-"""
-gr.Interface(
-    fn=evaluate,
-    inputs=[
-        gr.components.Textbox(
-            lines=2, label="Instruction", placeholder="Tell me about alpacas."
-        ),
-        gr.components.Textbox(lines=2, label="Input", placeholder="none"),
-        gr.components.Slider(minimum=0, maximum=1, value=0.1, label="Temperature"),
-        gr.components.Slider(minimum=0, maximum=1, value=0.75, label="Top p"),
-        gr.components.Slider(minimum=0, maximum=100, step=1, value=40, label="Top k"),
-        gr.components.Slider(minimum=1, maximum=4, step=1, value=4, label="Beams"),
-        gr.components.Slider(
-            minimum=1, maximum=2000, step=1, value=128, label="Max tokens"
-        ),
-    ],
-    outputs=[
-        gr.inputs.Textbox(
-            lines=5,
-            label="Output",
-        )
-    ],
-    title="alpaca4",
-    description="Alpaca4",
-).launch()
+from datasets import load_dataset
 
-# Old testing code follows.
-
-"""
+from tqdm import tqdm
 if __name__ == "__main__":
     # testing code for readme
     # for instruction in [
@@ -260,12 +240,24 @@ if __name__ == "__main__":
     #     "Translate the sentence 'I have no mouth but I must scream' into Spanish.",
     #     "Count up from 1 to 500.",
     # ]:
-    while 1:
-        print("PLZ input instruction:")
-        instruction = input()
-        response = evaluate(instruction)
-        if response[-4:] == "</s>":
-            response = response[:-4]
-        print("Response:", response)
-        print()
-
+    TEST_DATA_PATH = "data/negg_test_data.json"
+    data = load_dataset("json", data_files=TEST_DATA_PATH)
+    
+    all_num = 0
+    accurate_num = 0
+    for index, example in tqdm(enumerate(data['train'])):
+        all_num += 1
+        instruction = example['instruction']
+        input_ = example['input']
+        output = example['output']
+        response = evaluate(instruction, input=input_)
+        print(str(index)+"-"*100)
+        print("Model answer:", response.strip())
+        print("-"*50)
+        print("True answer:", output)
+        print("-"*100)
+        if response[0]==output[0]:
+            accurate_num += 1
+        if index > 300:
+            break
+    print(f"accurate = {accurate_num}/{all_num} = ", accurate_num/all_num)

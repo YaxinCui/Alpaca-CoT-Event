@@ -1,5 +1,5 @@
 # Custom / Large files
-data/*.json
+# data/*.json
 saved_models/*
 
 # PyCharm

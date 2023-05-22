@@ -81,13 +81,21 @@ DATA_PATH = {
              "belle1.5m": "./data/belle_data1.5M_cn.json",
              "finance": "./data/finance_en.json",
              "multiturn_chat": "./data/multiturn_chat_0.8M.json",
+             "negg_train": "./data/negg_train_data.json",
+             "negg_mini": "./data/negg_mini.json",
             }
 
 PROMPT_DICT = {
     "prompt_input": (
-        "Below is an instruction that describes a task, paired with an input that provides further context. "
-        "Write a response that appropriately completes the request.\n\n"
-        "### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Response:"
+        """### EXAM\nSingle-choice Question: Based on the presented event processes sequence, please select the most likely subsequent event from the provided choices.
+Processes: {instruction}
+
+### Event Options:
+{input}
+
+### Response:
+The format for your answer should be "X. (xxx, xxx, xxx…)". So the next predected correct option is: 
+"""
     ),
     "prompt_no_input": (
         "Below is an instruction that describes a task. "
@@ -349,7 +357,7 @@ def train(args):
     # 2. split dataset
     if args.val_set_size > 0:
         train_val = data["train"].train_test_split(
-            test_size=args.val_set_size, shuffle=True, seed=42
+            test_size=args.val_set_size, shuffle=False, seed=42
         )
         train_data = train_val["train"].shuffle().map(generate_and_tokenize_prompt)
         val_data = train_val["test"].shuffle().map(generate_and_tokenize_prompt)
@@ -381,7 +389,7 @@ def train(args):
             warmup_steps=warmup_steps,
             num_train_epochs=args.epochs,
             learning_rate=args.learning_rate,
-            fp16=True,
+            fp16=False,
             logging_steps=20,
             evaluation_strategy="steps" if args.val_set_size > 0 else "no",
             save_strategy="steps",
@@ -420,10 +428,10 @@ if __name__ == "__main__":
     parser.add_argument('--model_type', default="llama", choices=['llama', 'chatglm', 'bloom', 'moss'])
     parser.add_argument('--model_name_or_path', default="decapoda-research/llama-7b-hf", type=str)
     parser.add_argument('--per_gpu_train_batch_size', default=4, type=int, help='Batch size per GPU/CPU for training.')
-    parser.add_argument('--gradient_accumulation_steps', default=32, type=int)
+    parser.add_argument('--gradient_accumulation_steps', default=16, type=int)
     parser.add_argument('--epochs', default=3, type=int)
     parser.add_argument('--learning_rate', default=3e-4, type=float)
-    parser.add_argument('--cutoff_len', default=512, type=int)
+    parser.add_argument('--cutoff_len', default=250, type=int)
     #PEFT arguments
     parser.add_argument('--peft_type', default="lora", choices=['lora', 'adalora', 'prompt','p_tuning','prefix'])
     parser.add_argument('--lora_r', default=8, type=int)
@@ -434,8 +442,8 @@ if __name__ == "__main__":
                         help="the module to be injected, e.g. q_proj/v_proj/k_proj/o_proj for llama, query_key_value for bloom&GLM",
                         default=["q_proj", "v_proj"])
     parser.add_argument('--adalora_init_r', default=12, type=int)
-    parser.add_argument("--adalora_tinit", type=int, default=200, help="number of warmup steps for AdaLoRA wherein no pruning is performed")
-    parser.add_argument("--adalora_tfinal", type=int, default=1000, help=" fix the resulting budget distribution and fine-tune the model for tfinal steps when using AdaLoRA ")
+    parser.add_argument("--adalora_tinit", type=int, default=50, help="number of warmup steps for AdaLoRA wherein no pruning is performed")
+    parser.add_argument("--adalora_tfinal", type=int, default=500, help=" fix the resulting budget distribution and fine-tune the model for tfinal steps when using AdaLoRA ")
     parser.add_argument("--adalora_delta_t", type=int, default=10, help="interval of steps for AdaLoRA to update rank")
     parser.add_argument('--num_virtual_tokens', default=20, type=int)
     parser.add_argument('--prompt_encoder_hidden_size', default=128, type=int)

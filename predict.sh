@@ -1,0 +1,1 @@
+python predict.py --model_type llama --data data/negg_test_data.json --lora_dir Alpaca-CoT-Event/saved-negg_train7b --cutoff_len 320
